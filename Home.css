@@ -10,6 +10,7 @@
 .u-section-1 .u-text-1 {
   font-family: TTChocolatesTrialRegular;
   font-weight: 600;
+  font-size: 3rem;
   margin: 163px 570px 0 37px;
 }
 
@@ -30,12 +31,6 @@
   text-transform: uppercase;
   margin: -32px auto 60px 243px;
   padding: 0;
-}
-
-@media (max-width: 1399px) {
-  .u-section-1 .u-text-1 {
-    font-size: 3rem;
-  }
 }
 
 @media (max-width: 1199px) {
@@ -390,6 +385,7 @@
 
 @media (max-width: 1399px) {
   .u-section-4 .u-image-2 {
+    margin-top: 20px;
     margin-right: calc(((100% - 1140px) / 2) + 33px);
   }
 
@@ -781,7 +777,7 @@
 
 @media (max-width: 575px) {
   .u-section-5 .u-sheet-1 {
-    min-height: 50vw;
+    min-height: 737px;
   }
 
   .u-section-5 .u-text-2 {
